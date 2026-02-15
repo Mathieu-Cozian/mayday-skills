@@ -1,0 +1,10 @@
+{
+  "name": "mayday-skills",
+  "version": "0.1.0",
+  "description": "Skills spécialisés pour créer et gérer la documentation produit Mayday : articles d'aide et release notes au format documentation.mayday.fr",
+  "author": {
+    "name": "Mathieu Cozian"
+  },
+  "repository": "https://github.com/Mathieu-Cozian/mayday-skills",
+  "keywords": ["mayday", "documentation", "release-notes", "french", "help-center"]
+}

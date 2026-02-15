@@ -189,7 +189,7 @@ Une fois **tous les articles validés**, générez un **fichier markdown consoli
 [... etc pour tous les articles]
 ```
 
-Sauvegardez ce fichier dans `/sessions/wizardly-quirky-albattani/mnt/outputs/` et donnez le lien computer:// à l'utilisateur.
+Sauvegardez ce fichier dans le dossier de travail de l'utilisateur et donnez le lien computer:// à l'utilisateur.
 
 ## Règles de style Mayday
 
